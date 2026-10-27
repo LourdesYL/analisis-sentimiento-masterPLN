@@ -70,6 +70,7 @@ El cuaderno se conserva como registro del trabajo académico. En una revisión p
 - Es necesario comprobar el efecto del truncamiento antes de interpretar la ausencia de determinadas expresiones en las explicaciones.
 
 Estas limitaciones se documentan sin repetir los entrenamientos originales.
+[Consultar la revisión crítica y las posibles correcciones](revision_critica.md).
 
 ## Consultar el cuaderno
 
